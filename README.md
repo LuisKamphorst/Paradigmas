@@ -8,3 +8,5 @@ Trabalhos da matéria de Paradigmas, do professor Munif
   Lista de exercícios sobre evolução de linguagens de programação
 - Atividade03:\
   Derivação de loop for em C
+- Atividade04:\
+  PNGs de exercícios de programas
